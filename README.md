@@ -1,4 +1,4 @@
-# Frontend Developer Challenge: Comments
+# Frontend Developer Challenge: Posts
 
 Welcome to the challenge for the Frontend Developer position! This README contains the challenge details and instructions for completing it.
 
@@ -15,3 +15,5 @@ The aim of this challenge is to evaluate your Frontend development skills and yo
 4. **Data Persistence**: The page should have data persistence. This means that if the page is reloaded or the browser is closed, the data should not be lost.
 
 You can use any technology or framework of your choice to complete this test. What we will primarily evaluate is the thinking and creativity in the implementation of the solution.
+
+Happy Coding!!!
