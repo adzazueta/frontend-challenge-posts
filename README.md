@@ -4,7 +4,7 @@ Welcome to the challenge for the Frontend Developer position! This README contai
 
 ## Challenge Description
 
-The aim of this challenge is to evaluate your Frontend development skills and your ability to solve common problems in this field. You are required to create a web application that meets the following requirements:
+The aim of this challenge is to evaluate your Frontend development skills and your ability to solve common problems in this field like DOM manipulation and data persistence. You are required to create a web application that meets the following requirements:
 
 1. **Text Area**: There should be a text area (textarea) on the page where the user can write text. The text should be limited to a maximum number of words.
 
